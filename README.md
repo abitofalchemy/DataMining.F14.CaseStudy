@@ -23,6 +23,16 @@ http://www.accenture.com/SiteCollectionDocuments/financial-services/accenture-co
 
 http://www.hallaminternet.com/2014/5-social-media-campaigns/
 
+Infographic for business.twitter.com case studies
 
+http://www.mediabistro.com/alltwitter/twitter-brands-case-study_b34731
+
+More Twitter Brand Case Study examples
+
+http://beingyourbrand.com/2012/10/21/social-media-case-studies-twitter-successes-to-learn-from/
+
+Examples Southwest,Whole Foods,Best Buy
+
+http://www.socialmediatoday.com/content/case-studies-3-unique-successful-twitter-strategies
 
 >>>>>>> FETCH_HEAD
