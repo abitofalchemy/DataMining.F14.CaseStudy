@@ -9,6 +9,8 @@ DataMining.F14.CaseStudy
 http://www.bain.com/publications/articles/putting-social-media-to-work.aspx
 <<<<<<< HEAD
 
+https://dev.twitter.com/case-studies/zappos-uses-twitter-generate-over-1200-conversations-month-its-customers
+
 http://frostftp.com/JE/Events/CC/Sitel/Social_Media_Customer_Engagement.pdf
 
 http://socialaxis.wordpress.com/2012/05/15/how-dell-reinvented-itself-thanks-to-social-media/
