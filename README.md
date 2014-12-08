@@ -6,7 +6,13 @@ DataMining.F14.CaseStudy
 
   http://kylelacy.com/25-case-studies-using-twitter-to-increase-business-and-sales/
 
+* Brand Management
+  https://www.americanexpress.com/us/small-business/openforum/articles/brand-management-how-to-handle-your-social-media-presence/
+
+
 http://www.bain.com/publications/articles/putting-social-media-to-work.aspx
+
+
 <<<<<<< HEAD
 
 https://dev.twitter.com/case-studies/zappos-uses-twitter-generate-over-1200-conversations-month-its-customers
